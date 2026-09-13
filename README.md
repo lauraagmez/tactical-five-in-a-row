@@ -62,6 +62,18 @@ It introduces additional rules including:
 
 These mechanics significantly increase the size and complexity of the search space.
 
+## My contribution
+
+The game simulator and supporting infrastructure were provided as part of the course.
+
+My implementation is contained in `Comportamiento_Agente/` and includes:
+
+- Status search
+- Minimax
+- Alpha-Beta pruning
+- Heuristic evaluation functions
+- Intelligent move selection
+
 ## Project structure
 
 ```text
