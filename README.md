@@ -1,6 +1,6 @@
 # Tactical Five-in-a-Row
 
-**Development period:** April – May 2026  
+**Development period:** May – June 2026  
 **Course:** Artificial Intelligence  
 **University:** University of Granada  
 **Language:** C++
