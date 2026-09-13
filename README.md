@@ -7,6 +7,10 @@
 
 Adversarial-search Artificial Intelligence project developed in C++ for a tactical variant of Five-in-a-Row played on a 9×9 board.
 
+## Gameplay
+
+![Tactical Five-in-a-Row gameplay](images/gameplay.png)
+
 The project focuses on the design of an intelligent game-playing agent capable of analysing possible future states, evaluating board positions and selecting competitive moves against different opponents.
 
 ## Overview
